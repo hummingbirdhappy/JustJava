@@ -1,0 +1,24 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJava</string>
+    <string name="name_hint">Name</string>
+    <!-- Header text for the list of toppings -->
+    <string name="toppings">Toppings</string>
+    <string name="topping1">Whipped cream</string>
+    <string name="topping2">Chocolate</string>
+    <!-- Header text for the quantity -->
+    <string name="qty">Quantity</string>
+    <!-- Text for increment button -->
+    <string name="increment">+</string>
+    <!-- Text for decrement button -->
+    <string name="decrement">-</string>
+    <string name="initial_quantity">2</string>
+    <!-- Text for the order button -->
+    <string name="order_button">Order</string>
+    <!-- Text for the name in the order summary -->
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Nancy">%s</xliff:g></string>
+    <string name="add_whipped_cream">Add whipped cream? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="add_chocolate">Add chocolate? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_quantity">Quantity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_total">Total: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="thank_you">Thank you!</string>
+</resources>
